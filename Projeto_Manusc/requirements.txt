@@ -1,0 +1,5 @@
+opencv-python
+tiktoken
+openai
+python-dotenv
+azure-cognitiveservices-vision-computervision
